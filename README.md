@@ -1,4 +1,4 @@
-# Performance-Testing-Distance-Calculations--3D-
+# Performance Testing Distance Calculations 3D
  
 
 <h2 align="left">Information</h2>
